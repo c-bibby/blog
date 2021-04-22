@@ -176,7 +176,7 @@ Repeat all of the steps used for your production index to configure your index, 
 
 Click on the button below to deploy this repository via Netlify.
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/amplience/dc-static-blog-nextjs)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/c-bibby/dc-static-blog-nextjs)
 
 ### Netlify Build Settings
 
